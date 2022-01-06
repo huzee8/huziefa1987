@@ -1,2 +1,7 @@
 - 👋 Hi, I’m huziefa altybe
 - 👀 I’m interested in programming
+- html css javascript
+- sass bootstrap
+- ReactJs NextJs NodeJs 
+- MongoDB Sql 
+- Electron C#
