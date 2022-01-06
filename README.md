@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @huziefa1987
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning next js
+- 👋 Hi, I’m huziefa altybe
+- 👀 I’m interested in programming
